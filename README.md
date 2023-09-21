@@ -12,10 +12,11 @@ By the end of this series, you'll have a fully functional and feature-rich chat 
 
 ## Screenshot
 
-<div style="display:flex;">
-  <img src="images/chatgpt_image_1.png" width="30%" />
-</div>
+![images](images/chatgpt_page_1.png)
+![images](images/chatgpt_page_2.png)
+![images](images/chatgpt_page_3.png)
 
+# [YouTube Video Link](https://youtube.com/playlist?list=PLlSuJy9SfzvHmlrdxXBlrdTe3PedRr9kj&si=W-sIedgyR-rwGy0B)
 
 ## Part 1: Design Welcome Screen
 
