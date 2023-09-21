@@ -10,6 +10,13 @@ Throughout these tutorials, you'll learn about UI design, RecyclerView, Room dat
 
 By the end of this series, you'll have a fully functional and feature-rich chat application that you can further customize and expand upon. Let's get started!
 
+## Screenshot
+
+<div style="display:flex;">
+  <img src="images/chatgpt_image_1.png" width="30%" />
+</div>
+
+
 ## Part 1: Design Welcome Screen
 
 In this part, you will design the Welcome Screen for your ChatGPT App. You'll learn how to create an appealing and user-friendly welcome screen using Android Studio's layout editor. Additionally, you'll set up the necessary dependencies, such as Retrofit for API integration and Room for local storage, and implement the MVVM architecture for structuring your app.
