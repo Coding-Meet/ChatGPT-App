@@ -55,5 +55,11 @@ In this part, you'll add Text To Speech (TTS) and Voice to Text (VTT) capabiliti
 The final part of this tutorial series focuses on securing API keys using encrypted SharedPreferences. You'll learn how to protect sensitive information and ensure the security of your app.
 
 
+## Support the Project
 
-   
+If you find this tutorial series helpful and would like to support the development of more content, consider buying me a coffee! Your support helps in creating high-quality tutorials.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/codingmeet)
+
+Your generosity is greatly appreciated! Thank you for supporting this project.
+
