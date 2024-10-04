@@ -52,7 +52,15 @@ In this part, you'll add Text To Speech (TTS) and Voice to Text (VTT) capabiliti
 
 ## Part 9: Secure API Key Handling
 
-The final part of this tutorial series focuses on securing API keys using encrypted SharedPreferences. You'll learn how to protect sensitive information and ensure the security of your app.
+In this part, this tutorial series focuses on securing API keys using encrypted SharedPreferences. You'll learn how to protect sensitive information and ensure the security of your app.
+
+## Part 10: Design Generating Images from Text Prompts
+
+Create a UI for users to input text and generate images in sizes (256x256, 512x512, 1024x1024). Display generated images in a RecyclerView, with a dialog to view the full image and a download button.
+
+## Part 11: Integrating Generating Images from Text Prompts with OpenAI API
+
+Integrate OpenAI's image generation API using Retrofit. Display generated images, and allow users to download them to the device's Downloads folder.
 
 
 ## Support the Project
