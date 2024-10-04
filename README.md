@@ -62,6 +62,12 @@ Create a UI for users to input text and generate images in sizes (256x256, 512x5
 
 Integrate OpenAI's image generation API using Retrofit. Display generated images, and allow users to download them to the device's Downloads folder.
 
+💥 Discount Code: CM50
+
+⏳ Valid Until: Oct 31, 2024
+
+👉 Source Code Now and Save 50%! : https://buymeacoffee.com/codingmeet/e/312398
+
 
 ## Support the Project
 
